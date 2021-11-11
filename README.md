@@ -1,4 +1,4 @@
-Olá, Sou Julimar 👋
+Olá, Sou Julimar 🖐🏼
 
 - 🖥 Atualmente trabalho com DevOps e Ánalise de Infraestrutura Linux
 - 👨‍🎓 Sou formado em Tecnologia da informação na área de redes de computadores 
