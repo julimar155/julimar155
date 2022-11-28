@@ -1,6 +1,6 @@
 Olá, Sou Julimar 🖐🏼
 
-- 🖥 Atualmente trabalho com DevOps e Ánalise de Infraestrutura Linux
+- 🖥 Atualmente atuo na área de segurança cibernética focado em segurança ofensiva e pentest
 - 👨‍🎓 Sou formado em Tecnologia da informação na área de redes de computadores
 - 💬 Ganho de aprendizado e experiência para mim é tudo.
 - ⚡ Gosto de aprender coisas novas e coloca-las em prática até que fiquem fácil para mim.
